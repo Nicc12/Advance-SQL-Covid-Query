@@ -11,10 +11,12 @@ This project is an SQL based data exploration which takes raw data joins it acro
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ---
+
 ### Repository Information 📄:
 
 This repository contains three files: README.md, Covid_Query.sql, and CovidDatasets.zip. 
-* README.md is what you are reading now and explains information associated with the project
-* Covid_Query.sql provides the SQL code that was used to query the datasets in a database
-* CovidDatasets.zip contains the data sets used in this project, however, other information for the data can be located on [ourworldindata.org](https://ourworldindata.org/covid-deaths)
+* README.md is what you are reading now and explains information associated with the project.
+* Covid_Query.sql provides the SQL code that was used to query the datasets in a database.
+* CovidDatasets.zip contains the data sets used in this project, however, other information for the data can be located on [ourworldindata.org](https://ourworldindata.org/covid-deaths).
