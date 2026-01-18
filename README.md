@@ -1,13 +1,11 @@
 # Advance SQL Covid Data Exploration 😷 
 
 
-This project is an SQL based data exploration which takes raw data joins it across multiple tables, handles aggregations, performs window-based calculations, and stores the results for usage in Tableau. 
+This project is an SQL based data exploration which takes raw data joins it across multiple tables, handles aggregations, performs window-based calculations, and stores the results for usage in visualization software.
 
 ### Tools and Methods ⚙️:
 
 * MySQL: Utilized SQL function to conduct explorator analysis
-* Excel: Utilized Excel for basic data preporation; removing irrelevant columns for analysis
-* Tableau: Utilized Tableau to display finding in a digestible format
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
