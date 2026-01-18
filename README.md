@@ -1,4 +1,4 @@
-# Advance SQL Covid Query
+# Advance SQL Covid Query 😷 
 
 
 This project is an SQL based data exploration which takes raw data joins it across multiple tables, handles aggregations, performs window-based calculations, and stores the results for usage in Tableau. 
