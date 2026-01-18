@@ -5,10 +5,8 @@ This project is an SQL based data exploration which takes raw data joins it acro
 
 ### Tools and Methods ⚙️:
 
-* MySQL: Utilized SQL function to conduct explorator analysis
+* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white): Utilized SQL function to conduct explorator analysis
 
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
