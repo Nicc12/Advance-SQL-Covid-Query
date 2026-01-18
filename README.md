@@ -3,7 +3,8 @@
 
 This project is an SQL based data exploration which takes raw data joins it across multiple tables, handles aggregations, performs window-based calculations, and stores the results for usage in visualization software.
 
-### Tools and Methods ⚙️: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Tools and Methods ⚙️: 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 * MySQL: Utilized SQL function to conduct explorator analysis
 
