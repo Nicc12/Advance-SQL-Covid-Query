@@ -11,7 +11,7 @@ This project is an SQL based data exploration which takes raw data joins it acro
 
 ---
 
-### Repository Information 📄:
+### Repository Information 📄: 
 
 This repository contains three files: README.md, Covid_Query.sql, and CovidDatasets.zip. 
 * README.md is what you are reading now and explains information associated with the project.
