@@ -1,0 +1,6 @@
+*.csv linguist-vendored
+*.json linguist-vendored
+*.pdf linguist-vendored
+*.html linguist-vendored
+*.sql linguist-language=SQL
+*.mysql linguist-language=SQL
